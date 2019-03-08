@@ -1,5 +1,5 @@
 def rescue_princess_peach 
-  puts 
+  puts rescue_princess_peach
   status = "rescued" 
   puts "Horay! Mario has rescued Princess Peach" 
 end
